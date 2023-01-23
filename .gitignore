@@ -16,3 +16,4 @@
 .prettierignore
 
 assets.html/
+node_modules/
