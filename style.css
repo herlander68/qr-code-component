@@ -35,7 +35,7 @@ img {
     width: 100%;
 }
 
-.wrapper {
+main {
     display: flex;
     justify-content: center;
     align-items: center;
